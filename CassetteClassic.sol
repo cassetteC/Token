@@ -1,4 +1,8 @@
 /**
+ *Submitted for verification at BscScan.com on 2021-10-01
+*/
+
+/**
  *Submitted for verification at Etherscan.io on 2021-09-03
 */
 
@@ -327,7 +331,7 @@ contract CassetteClassic is StandardToken, Pausable {
     string public constant NAME = "Cassette Classic Token";
     string public constant SYMBOL = "CSC";
     uint256 public constant DECIMALS = 18;
-    uint256 public constant INITIAL_SUPPLY = 3000000000 * 10**18;
+    uint256 public constant INITIAL_SUPPLY = 9000000 * 10**18;
 
     /**
      * @dev Transfer tokens when not paused
